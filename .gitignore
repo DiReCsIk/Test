@@ -1,1 +1,5 @@
 MyFinalProject/
+target/
+bin/
+*.log
+*.db
